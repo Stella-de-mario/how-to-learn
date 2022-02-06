@@ -1,15 +1,10 @@
 .footer {
-    padding: 60px 0 40px;
-    display: flex;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    justify-content: center;
-    -webkit-box-pack: center;
-      -ms-flex-pack: center;
-    align-items: stretch;
-    background-color: #1f1f1f;
-    color: white;
-    min-height: 350px;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-  }
+  padding: 60px 0 40px;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  background-color: #1f1f1f;
+  color: white;
+  min-height: 350px;
+  box-sizing: border-box;
+}
