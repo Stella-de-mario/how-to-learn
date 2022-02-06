@@ -15,4 +15,4 @@
 2.HTML
 
 **Ссылка на сайт:**
-https://github.com/Stella-de-mario/how-to-learn/index.html
+https://github.com/Stella-de-mario/how-to-learn/blob/main/index.html
